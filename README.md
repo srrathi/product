@@ -1,6 +1,6 @@
 # Product App
 
-This project was made with Reactjs, bootstrap and emailjs.
+This project was made with Reactjs, bootstrap, emailjs and for hosting used github-pages.
 
 ## What it do?
 It sends the email of the ordered product to the merchant, stating that this product is ordered by this person along with the person info. I've used emailjs with react for sending emails.
